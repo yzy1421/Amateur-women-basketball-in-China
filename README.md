@@ -8,5 +8,4 @@ result_女篮.json是爬取微博‘女篮’为关键词的结果（爬取日�
 parse_csv_basketball.ipynb 是对从百度地图爬取的区域球馆名称的数据分析文件
 ## 相关图表
 ![luoyang](https://github.com/yzy1421/Amateur-women-basketball-in-China/blob/master/figure/court_num.jpg)
-![luoyang]((https://github.com/yzy1421/Amateur-women-basketball-in-China/blob/master/figure/court_num.jpg)
-)
+![luoyang]((https://github.com/yzy1421/Amateur-women-basketball-in-China/blob/master/figure/district.jpg)
