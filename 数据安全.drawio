@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-11-19T09:37:56.379Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.4.1" etag="pAwpdR-02430NFspaPlz" type="github"><diagram id="UnuMk-fzFWuTp7yoQcbL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-19T09:47:56.974Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Gnvmus5baaupEFQys9zl" version="20.4.1" type="github">
+  <diagram id="UnuMk-fzFWuTp7yoQcbL" name="第 1 页">
+    <mxGraphModel dx="1554" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WBFnuN2xYD0U8tQDIfYC-1" value="数据上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WBFnuN2xYD0U8tQDIfYC-2" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WBFnuN2xYD0U8tQDIfYC-3" value="数据查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WBFnuN2xYD0U8tQDIfYC-4" value="数据下载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WBFnuN2xYD0U8tQDIfYC-5" value="数据标注" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WBFnuN2xYD0U8tQDIfYC-6" value="&lt;ol&gt;&lt;li&gt;数据来源&lt;/li&gt;&lt;li&gt;数据量&lt;/li&gt;&lt;li&gt;数据目标路径&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
+          <mxGeometry x="10" y="190" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WBFnuN2xYD0U8tQDIfYC-7" value="&lt;ol&gt;&lt;li&gt;目录管理&lt;/li&gt;&lt;li&gt;存储大小管理&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="190" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WBFnuN2xYD0U8tQDIfYC-8" value="&lt;span style=&quot;background-color: initial;&quot;&gt;1.查看方式&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.查看权限&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="250" y="190" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WBFnuN2xYD0U8tQDIfYC-9" value="1.下载目的&lt;br&gt;2.下载数据记录" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="190" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WBFnuN2xYD0U8tQDIfYC-10" value="1.标注用途&lt;br&gt;2.标注类型&lt;br&gt;3.标注数量" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="190" width="120" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
