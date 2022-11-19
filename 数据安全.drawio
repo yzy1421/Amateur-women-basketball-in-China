@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-19T09:55:25.854Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="vHkYYZobrQEFoskyoHtb" version="20.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-19T10:23:50.977Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="bDlfEtN_BYCjzpFOTT4P" version="20.4.1" type="github" pages="2">
   <diagram id="UnuMk-fzFWuTp7yoQcbL" name="第 1 页">
     <mxGraphModel dx="1554" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,47 +54,47 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iJvqoiJ1EPxw_zAZJ94w-1" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry y="80" width="760" height="260" as="geometry" />
+        <mxCell id="k_LdiFV8wgXcIOkyFoxY-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="340" width="800" height="870" as="geometry" />
         </mxCell>
-        <mxCell id="iJvqoiJ1EPxw_zAZJ94w-2" value="数据上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="k_LdiFV8wgXcIOkyFoxY-2" value="1.根据原始文件夹目录，上传该文件夹下全部文件。&lt;br&gt;2.在数据库ifly_saunfa_data表中记录is_delete（是否删除）, ori_path（本地路径）, minio_url（minio路径）,type（数据类型）,created_at（上传时间）,project（数据所属项目）,source（上传原设备）,event_id（事件id）&lt;br&gt;3.支持断点续传&lt;br&gt;4.一个事件为一次上传任务" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="49.5" y="430" width="371" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="iJvqoiJ1EPxw_zAZJ94w-3" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="k_LdiFV8wgXcIOkyFoxY-3" value="数据上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="400" width="370" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iJvqoiJ1EPxw_zAZJ94w-4" value="数据查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="k_LdiFV8wgXcIOkyFoxY-5" value="1.工具显示目前各个项目数据文件结构、给定目录下的文件结构&lt;br&gt;2.工具显示各个项目的存储容量情况，给定目录的存储容量情况" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="420" y="430" width="371" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="iJvqoiJ1EPxw_zAZJ94w-5" value="数据下载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="k_LdiFV8wgXcIOkyFoxY-6" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420.5" y="400" width="370" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iJvqoiJ1EPxw_zAZJ94w-6" value="数据标注" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="k_LdiFV8wgXcIOkyFoxY-7" value="1.根据路径直接查看数据&lt;br&gt;2.通过检索日期查看数据&lt;br&gt;3.工具至少包含常规图像的直接显示" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="49.5" y="700" width="371" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="iJvqoiJ1EPxw_zAZJ94w-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
-          <mxGeometry x="10" y="190" width="120" height="120" as="geometry" />
+        <mxCell id="k_LdiFV8wgXcIOkyFoxY-8" value="数据查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="670" width="370" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iJvqoiJ1EPxw_zAZJ94w-8" value="&lt;ol&gt;&lt;li&gt;目录管理&lt;/li&gt;&lt;li&gt;存储大小管理&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="130" y="190" width="120" height="120" as="geometry" />
+        <mxCell id="k_LdiFV8wgXcIOkyFoxY-9" value="1.给定路径批量下载&lt;br&gt;2.根据数据库检索条件批量下载&lt;br&gt;3.数据下载记录接口，保证每次执行下载时，自动插入相关信息到数据库中" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="420" y="700" width="371" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="iJvqoiJ1EPxw_zAZJ94w-9" value="&lt;span style=&quot;background-color: initial;&quot;&gt;1.查看方式&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.查看权限&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="250" y="190" width="120" height="120" as="geometry" />
+        <mxCell id="k_LdiFV8wgXcIOkyFoxY-10" value="数据下载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420.5" y="670" width="370" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iJvqoiJ1EPxw_zAZJ94w-10" value="1.下载目的&lt;br&gt;2.下载数据记录" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="370" y="190" width="120" height="120" as="geometry" />
+        <mxCell id="k_LdiFV8wgXcIOkyFoxY-11" value="1.标注数据与数据下载功能结合，在数据下载功能下增加标注选项用来记录标注数据与原始数据路径的关系。&lt;br&gt;2.在线标注工具，避免下载数据标注。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="49" y="970" width="371" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="iJvqoiJ1EPxw_zAZJ94w-11" value="1.标注用途&lt;br&gt;2.标注类型&lt;br&gt;3.标注数量" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="490" y="190" width="120" height="120" as="geometry" />
+        <mxCell id="k_LdiFV8wgXcIOkyFoxY-12" value="数据标注" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="49.5" y="940" width="370" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iJvqoiJ1EPxw_zAZJ94w-12" value="数据安全管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="90" width="100" height="30" as="geometry" />
+        <mxCell id="k_LdiFV8wgXcIOkyFoxY-13" value="1.数据权限管理工具。可视化权限内容和更改。&lt;br&gt;2.删除功能，包括删除申请、删除数据路径上传、执行删除记录。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="419.5" y="970" width="371" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="iJvqoiJ1EPxw_zAZJ94w-13" value="数据权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="k_LdiFV8wgXcIOkyFoxY-14" value="数据权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="940" width="370" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iJvqoiJ1EPxw_zAZJ94w-14" value="1.权限管理&lt;br&gt;2.删除审批" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="610" y="190" width="120" height="120" as="geometry" />
+        <mxCell id="k_LdiFV8wgXcIOkyFoxY-17" value="数据安全管理--工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="350" width="370" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
