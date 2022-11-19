@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-11-19T09:47:56.974Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Gnvmus5baaupEFQys9zl" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-19T09:54:34.612Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="xNPXkvrlBqYtjhgq7_VQ" version="20.4.1" type="github">
   <diagram id="UnuMk-fzFWuTp7yoQcbL" name="第 1 页">
     <mxGraphModel dx="1554" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WBFnuN2xYD0U8tQDIfYC-11" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry y="80" width="760" height="260" as="geometry" />
+        </mxCell>
         <mxCell id="WBFnuN2xYD0U8tQDIfYC-1" value="数据上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="130" width="120" height="60" as="geometry" />
         </mxCell>
@@ -33,6 +36,15 @@
         </mxCell>
         <mxCell id="WBFnuN2xYD0U8tQDIfYC-10" value="1.标注用途&lt;br&gt;2.标注类型&lt;br&gt;3.标注数量" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="490" y="190" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WBFnuN2xYD0U8tQDIfYC-12" value="数据安全管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="90" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WBFnuN2xYD0U8tQDIfYC-15" value="数据权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WBFnuN2xYD0U8tQDIfYC-16" value="1.权限管理&lt;br&gt;2.删除审批" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="610" y="190" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
