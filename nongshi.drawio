@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-30T03:55:17.045Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="K7PzRbZUVrBoVQnnKxoq" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-30T04:05:10.294Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="g8YJ6TuCLYoRDcSikrMp" version="21.3.7" type="github">
   <diagram name="第 1 页" id="PUpXTEfhrl9neY_Xw6fe">
     <mxGraphModel dx="2261" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,6 +24,57 @@
         </mxCell>
         <mxCell id="hd50HQ9QAf3w_2AiDhSZ-6" value="识别上述图片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hd50HQ9QAf3w_2AiDhSZ-7" value="得到识别结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hd50HQ9QAf3w_2AiDhSZ-8" value="填入预设问题“小麦__怎么防治？”" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hd50HQ9QAf3w_2AiDhSZ-9" value="调用docqa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hd50HQ9QAf3w_2AiDhSZ-11" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF3333;strokeWidth=3;entryX=0.998;entryY=0.825;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hd50HQ9QAf3w_2AiDhSZ-9" target="hd50HQ9QAf3w_2AiDhSZ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="500" as="sourcePoint" />
+            <mxPoint x="730" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hd50HQ9QAf3w_2AiDhSZ-12" value="拼接答案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="539" width="150" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="hd50HQ9QAf3w_2AiDhSZ-13" value="得分超过阈值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="390" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hd50HQ9QAf3w_2AiDhSZ-14" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF3333;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="349.5" as="sourcePoint" />
+            <mxPoint x="890" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hd50HQ9QAf3w_2AiDhSZ-15" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF3333;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hd50HQ9QAf3w_2AiDhSZ-7" target="hd50HQ9QAf3w_2AiDhSZ-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="400" as="sourcePoint" />
+            <mxPoint x="990" y="400.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hd50HQ9QAf3w_2AiDhSZ-16" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF3333;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hd50HQ9QAf3w_2AiDhSZ-8" target="hd50HQ9QAf3w_2AiDhSZ-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="500" as="sourcePoint" />
+            <mxPoint x="1010" y="500.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hd50HQ9QAf3w_2AiDhSZ-17" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#BECADB;strokeWidth=3;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="hd50HQ9QAf3w_2AiDhSZ-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="250" as="sourcePoint" />
+            <mxPoint x="950" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hd50HQ9QAf3w_2AiDhSZ-18" value="返回“未能识别到__害/杂草”" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hd50HQ9QAf3w_2AiDhSZ-20" value="得分低于阈值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="290" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
