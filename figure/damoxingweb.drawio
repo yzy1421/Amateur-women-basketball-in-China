@@ -1,28 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2023-07-13T01:41:50.305Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="MZfpWIerCxLDMSTKx0-L" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-13T01:44:16.051Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3Q-Hl8TRukCN2RQ1z8_1" version="21.5.2" type="github">
   <diagram name="第 1 页" id="hIBeBVp01pFhoZsAxozY">
-    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="q55ktUsBajNZYjp9DNrL-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="50" width="740" height="540" as="geometry" />
+        </mxCell>
         <mxCell id="q55ktUsBajNZYjp9DNrL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q55ktUsBajNZYjp9DNrL-1" target="q55ktUsBajNZYjp9DNrL-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q55ktUsBajNZYjp9DNrL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q55ktUsBajNZYjp9DNrL-1" target="q55ktUsBajNZYjp9DNrL-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q55ktUsBajNZYjp9DNrL-1" value="docqa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q55ktUsBajNZYjp9DNrL-1" value="docqa" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="290" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q55ktUsBajNZYjp9DNrL-2" value="返回：docqa-answer" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="q55ktUsBajNZYjp9DNrL-2" value="返回：docqa-answer" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="160" y="340" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q55ktUsBajNZYjp9DNrL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q55ktUsBajNZYjp9DNrL-3" target="q55ktUsBajNZYjp9DNrL-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q55ktUsBajNZYjp9DNrL-3" value="query" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="q55ktUsBajNZYjp9DNrL-3" value="query" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="290" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q55ktUsBajNZYjp9DNrL-5" value="type0:有" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q55ktUsBajNZYjp9DNrL-5" value="type0:有" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="240" y="270" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q55ktUsBajNZYjp9DNrL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="q55ktUsBajNZYjp9DNrL-8" target="q55ktUsBajNZYjp9DNrL-11">
@@ -31,29 +34,32 @@
         <mxCell id="q55ktUsBajNZYjp9DNrL-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q55ktUsBajNZYjp9DNrL-8" target="q55ktUsBajNZYjp9DNrL-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q55ktUsBajNZYjp9DNrL-8" value="星火" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q55ktUsBajNZYjp9DNrL-8" value="星火" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="414" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q55ktUsBajNZYjp9DNrL-10" value="type1:无" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q55ktUsBajNZYjp9DNrL-10" value="type1:无" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="389" y="270" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q55ktUsBajNZYjp9DNrL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="q55ktUsBajNZYjp9DNrL-11" target="q55ktUsBajNZYjp9DNrL-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q55ktUsBajNZYjp9DNrL-11" value="请帮我判断下\&quot;(quetion)\&quot;是否是关于农业方面问题，如果是回答“是”，如果不是回答“否”" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="q55ktUsBajNZYjp9DNrL-11" value="请帮我判断下\&quot;(quetion)\&quot;是否是关于农业方面问题，如果是回答“是”，如果不是回答“否”" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="600" y="340" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q55ktUsBajNZYjp9DNrL-14" value="返回：不是农业问题，拒绝回答" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="q55ktUsBajNZYjp9DNrL-14" value="返回：不是农业问题，拒绝回答" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="630" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q55ktUsBajNZYjp9DNrL-16" value="是" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q55ktUsBajNZYjp9DNrL-16" value="是" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="560" y="340" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q55ktUsBajNZYjp9DNrL-17" value="否" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q55ktUsBajNZYjp9DNrL-17" value="否" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="650" y="420" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q55ktUsBajNZYjp9DNrL-20" value="返回：星火answer" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="q55ktUsBajNZYjp9DNrL-20" value="返回：星火answer" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="414" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q55ktUsBajNZYjp9DNrL-23" value="农业问答接入星火大模型逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="60" width="350" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
