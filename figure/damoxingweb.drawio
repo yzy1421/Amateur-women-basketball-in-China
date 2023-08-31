@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T02:26:34.052Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="H4z8qUNRIi9vz1YLeRqm" version="21.6.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-31T02:27:25.119Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="W3Fy70jNm5XWXe3_Aq-5" version="21.6.3" type="github" pages="2">
   <diagram name="第 1 页" id="hIBeBVp01pFhoZsAxozY">
     <mxGraphModel dx="1050" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -85,13 +85,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FeOVtIjxke_yWU9TaG7p-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#f24a02;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="40" width="730" height="690" as="geometry" />
+          <mxGeometry x="97" y="40" width="730" height="690" as="geometry" />
         </mxCell>
         <mxCell id="gz7_goBF7-KfKhW20Dy--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fa7kFCfDhYASwwOLpl9H-1" target="gz7_goBF7-KfKhW20Dy--2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fa7kFCfDhYASwwOLpl9H-1" value="query" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="325" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gq1ZrdAHmHsGwCIdlSPj-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="gq1ZrdAHmHsGwCIdlSPj-5" target="gq1ZrdAHmHsGwCIdlSPj-3">
           <mxGeometry relative="1" as="geometry" />
@@ -116,11 +116,11 @@
         <mxCell id="gq1ZrdAHmHsGwCIdlSPj-6" value="文档问答" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="250" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gz7_goBF7-KfKhW20Dy--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.607;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gq1ZrdAHmHsGwCIdlSPj-7" target="gq1ZrdAHmHsGwCIdlSPj-6">
+        <mxCell id="xrfJDFgQVhCe_As5HdJg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.42;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gq1ZrdAHmHsGwCIdlSPj-7" target="gq1ZrdAHmHsGwCIdlSPj-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gq1ZrdAHmHsGwCIdlSPj-7" value="AIUI交互大模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="290" y="150" width="190" height="60" as="geometry" />
+          <mxGeometry x="265" y="150" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jr2-qOF-B7XDmscvgR1A-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Jr2-qOF-B7XDmscvgR1A-3">
           <mxGeometry relative="1" as="geometry">
@@ -161,7 +161,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gz7_goBF7-KfKhW20Dy--2" value="重写接口（多轮交互）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="150" width="140" height="20" as="geometry" />
+          <mxGeometry x="290" y="150" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jHIJUitwie4XoJ5xt9Du-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jHIJUitwie4XoJ5xt9Du-3" target="jHIJUitwie4XoJ5xt9Du-7">
           <mxGeometry relative="1" as="geometry" />
