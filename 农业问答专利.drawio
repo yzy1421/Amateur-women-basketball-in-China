@@ -1,14 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T07:50:41.271Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="hM-CKMr4TpJFX49CETZr" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T01:06:22.759Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="XSsyvKIUo9-S9CRfIpgW" version="22.0.4" type="github">
   <diagram name="第 1 页" id="lTeLcaSRZDCElp11zsGs">
     <mxGraphModel dx="1050" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2t6nK0DKOix5EoJwQmrf-1" value="步骤一：对用户提出问题进行意图识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="90" width="120" height="60" as="geometry" />
+        <mxCell id="2t6nK0DKOix5EoJwQmrf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2t6nK0DKOix5EoJwQmrf-1" target="2t6nK0DKOix5EoJwQmrf-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2t6nK0DKOix5EoJwQmrf-2" value="步骤二：对农业问题进行知识库检索，使用向量数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="2t6nK0DKOix5EoJwQmrf-1" value="&lt;b&gt;模块一：数据采集&lt;/b&gt;&lt;br&gt;收集农业领域数据并构建知识图谱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="70" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2t6nK0DKOix5EoJwQmrf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2t6nK0DKOix5EoJwQmrf-3" target="2t6nK0DKOix5EoJwQmrf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2t6nK0DKOix5EoJwQmrf-3" value="&lt;b&gt;模块二：知识检索&lt;/b&gt;&lt;br&gt;对农业问题进行知识库检索，使用向量数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327" y="150" width="246" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2t6nK0DKOix5EoJwQmrf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2t6nK0DKOix5EoJwQmrf-4" target="2t6nK0DKOix5EoJwQmrf-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2t6nK0DKOix5EoJwQmrf-4" value="&lt;b&gt;模块三：意图识别&lt;/b&gt;&lt;br&gt;对用户输入问题进行意图识别判断是否为农业问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="316.5" y="220" width="267" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2t6nK0DKOix5EoJwQmrf-5" value="&lt;b&gt;模块四：问题匹配和输出&lt;br&gt;&lt;/b&gt;对问题进行知识库匹配并使用大模型对非知识库的农业问题进行兜底。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="262" y="300" width="376" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
