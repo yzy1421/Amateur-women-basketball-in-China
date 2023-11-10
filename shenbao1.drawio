@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T05:42:23.048Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="z9VGCJtMZqbMpyAOx2bS" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-10T06:15:46.809Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="kTjJF0rb213dU0t1GCuv" version="22.1.0" type="github">
   <diagram name="第 1 页" id="IaBgkAcIGiignJxmme_n">
     <mxGraphModel dx="1050" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="1wpxAVm12Qnzw_6S-8gK-4" value="企业知识服务大模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="360" width="210" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="1wpxAVm12Qnzw_6S-8gK-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1wpxAVm12Qnzw_6S-8gK-5" target="1wpxAVm12Qnzw_6S-8gK-27">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1wpxAVm12Qnzw_6S-8gK-5" value="构建正负例数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="309" y="430" width="210" height="50" as="geometry" />
