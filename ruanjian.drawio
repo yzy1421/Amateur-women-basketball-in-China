@@ -1,9 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T02:47:30.665Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="22.1.21" etag="ACL0SP80et2tOpaeNS9a" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T07:20:04.660Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="KtrDiuaVT3pluaKEaT0s" version="22.1.21" type="github">
   <diagram name="第 1 页" id="KXs0I0OgNEmKbvi-cdlG">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="P2CJ4STdLpY5fH7RgxUH-1" value="产品需求管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P2CJ4STdLpY5fH7RgxUH-2" value="产品需求清单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P2CJ4STdLpY5fH7RgxUH-3" value="docqa版本更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P2CJ4STdLpY5fH7RgxUH-4" value="了解docqa更新日志，判断与产品需求清单匹配程度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P2CJ4STdLpY5fH7RgxUH-7" value="向总部提需求，等待总部引擎更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P2CJ4STdLpY5fH7RgxUH-21" value="测试环境" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="360" width="600" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="P2CJ4STdLpY5fH7RgxUH-8" value="测试环境部署" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P2CJ4STdLpY5fH7RgxUH-21">
+          <mxGeometry x="110" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P2CJ4STdLpY5fH7RgxUH-10" value="引擎测试流程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="P2CJ4STdLpY5fH7RgxUH-21">
+          <mxGeometry x="270" y="100" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P2CJ4STdLpY5fH7RgxUH-13" value="导入全量数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P2CJ4STdLpY5fH7RgxUH-21">
+          <mxGeometry x="110" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P2CJ4STdLpY5fH7RgxUH-14" value="引擎测试流程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="P2CJ4STdLpY5fH7RgxUH-21">
+          <mxGeometry x="270" y="180" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P2CJ4STdLpY5fH7RgxUH-16" value="测试报告2" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;" vertex="1" parent="P2CJ4STdLpY5fH7RgxUH-21">
+          <mxGeometry x="450" y="160" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P2CJ4STdLpY5fH7RgxUH-17" value="针对引擎新功能&lt;br&gt;调整软件产品需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P2CJ4STdLpY5fH7RgxUH-21">
+          <mxGeometry x="110" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P2CJ4STdLpY5fH7RgxUH-18" value="软件流程测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P2CJ4STdLpY5fH7RgxUH-21">
+          <mxGeometry x="110" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P2CJ4STdLpY5fH7RgxUH-19" value="测试报告3" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;" vertex="1" parent="P2CJ4STdLpY5fH7RgxUH-21">
+          <mxGeometry x="450" y="310" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P2CJ4STdLpY5fH7RgxUH-9" value="导入小数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P2CJ4STdLpY5fH7RgxUH-21">
+          <mxGeometry x="110" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P2CJ4STdLpY5fH7RgxUH-12" value="测试报告1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;" vertex="1" parent="P2CJ4STdLpY5fH7RgxUH-21">
+          <mxGeometry x="450" y="80" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P2CJ4STdLpY5fH7RgxUH-26" value="生产环境" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="780" width="610" height="200" as="geometry">
+            <mxRectangle x="70" y="790" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P2CJ4STdLpY5fH7RgxUH-20" value="生产环境更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P2CJ4STdLpY5fH7RgxUH-26">
+          <mxGeometry x="90" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
