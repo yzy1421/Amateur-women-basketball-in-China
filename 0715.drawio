@@ -1,23 +1,96 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T08:17:14.422Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="EHNa7S-98MGWkRAZMvAK" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T08:48:13.326Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="rwqE9GL9UHyEHsk_fDbR" version="24.6.5" type="github">
   <diagram name="第 1 页" id="IZGBzShmuUM7c1WVkrml">
     <mxGraphModel dx="1050" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="J6FEf__3X4Ce-S_Hou68-1" value="超管" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J6FEf__3X4Ce-S_Hou68-2" value="租户2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J6FEf__3X4Ce-S_Hou68-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J6FEf__3X4Ce-S_Hou68-3" target="J6FEf__3X4Ce-S_Hou68-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J6FEf__3X4Ce-S_Hou68-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J6FEf__3X4Ce-S_Hou68-3" target="J6FEf__3X4Ce-S_Hou68-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J6FEf__3X4Ce-S_Hou68-3" value="租户1（耘苗问）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J6FEf__3X4Ce-S_Hou68-4" value="租户3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J6FEf__3X4Ce-S_Hou68-5" value="......." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J6FEf__3X4Ce-S_Hou68-6" value="地址1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J6FEf__3X4Ce-S_Hou68-8" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J6FEf__3X4Ce-S_Hou68-9" value="地址3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="160" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J6FEf__3X4Ce-S_Hou68-10" value="地址2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="160" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J6FEf__3X4Ce-S_Hou68-12" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="510" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J6FEf__3X4Ce-S_Hou68-13" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="80" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J6FEf__3X4Ce-S_Hou68-14" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="100" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J6FEf__3X4Ce-S_Hou68-15" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="100" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J6FEf__3X4Ce-S_Hou68-17" value="注册用户" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="380" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J6FEf__3X4Ce-S_Hou68-18" value="知识生产" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="380" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J6FEf__3X4Ce-S_Hou68-22" value="子用户" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="240" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J6FEf__3X4Ce-S_Hou68-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="J6FEf__3X4Ce-S_Hou68-40" source="J6FEf__3X4Ce-S_Hou68-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="230" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="340" y="300" />
+              <mxPoint x="315" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J6FEf__3X4Ce-S_Hou68-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="J6FEf__3X4Ce-S_Hou68-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="220" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="340" y="300" />
+              <mxPoint x="390" y="300" />
+              <mxPoint x="390" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J6FEf__3X4Ce-S_Hou68-40" value="注册用户" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="380" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J6FEf__3X4Ce-S_Hou68-41" value="知识生产" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="380" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J6FEf__3X4Ce-S_Hou68-42" value="子用户" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J6FEf__3X4Ce-S_Hou68-43" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="320" as="sourcePoint" />
+            <mxPoint x="620" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
