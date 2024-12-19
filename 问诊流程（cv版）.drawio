@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rBL1BOkcqFpo-R5JIP8m-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="80" width="390" height="470" as="geometry" />
+        </mxCell>
         <mxCell id="rBL1BOkcqFpo-R5JIP8m-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rBL1BOkcqFpo-R5JIP8m-1" target="rBL1BOkcqFpo-R5JIP8m-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -15,49 +18,49 @@
         <mxCell id="rBL1BOkcqFpo-R5JIP8m-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rBL1BOkcqFpo-R5JIP8m-1" target="rBL1BOkcqFpo-R5JIP8m-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rBL1BOkcqFpo-R5JIP8m-1" value="用户输入图片/文字" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rBL1BOkcqFpo-R5JIP8m-1" value="用户输入图片/文字" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="320" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rBL1BOkcqFpo-R5JIP8m-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rBL1BOkcqFpo-R5JIP8m-2" target="rBL1BOkcqFpo-R5JIP8m-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rBL1BOkcqFpo-R5JIP8m-2" value="图片：返回病、虫、草害，用户选择" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rBL1BOkcqFpo-R5JIP8m-2" value="图片：返回病、虫、草害，用户选择" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="220" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rBL1BOkcqFpo-R5JIP8m-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rBL1BOkcqFpo-R5JIP8m-3" target="rBL1BOkcqFpo-R5JIP8m-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rBL1BOkcqFpo-R5JIP8m-3" value="进入问诊引擎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rBL1BOkcqFpo-R5JIP8m-3" value="进入问诊引擎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="414" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rBL1BOkcqFpo-R5JIP8m-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rBL1BOkcqFpo-R5JIP8m-4" target="rBL1BOkcqFpo-R5JIP8m-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rBL1BOkcqFpo-R5JIP8m-4" value="根据选择将图片送入对应引擎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rBL1BOkcqFpo-R5JIP8m-4" value="根据选择将图片送入对应引擎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="220" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rBL1BOkcqFpo-R5JIP8m-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rBL1BOkcqFpo-R5JIP8m-5" target="rBL1BOkcqFpo-R5JIP8m-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rBL1BOkcqFpo-R5JIP8m-5" value="将结果拼接并送入大模型：引擎返回结果+prompt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rBL1BOkcqFpo-R5JIP8m-5" value="将结果拼接并送入大模型：引擎返回结果+prompt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="220" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rBL1BOkcqFpo-R5JIP8m-6" value="大模型+RAG返回诊断结果+防治方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rBL1BOkcqFpo-R5JIP8m-6" value="大模型+RAG返回诊断结果+防治方法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="220" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rBL1BOkcqFpo-R5JIP8m-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rBL1BOkcqFpo-R5JIP8m-7" target="rBL1BOkcqFpo-R5JIP8m-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rBL1BOkcqFpo-R5JIP8m-7" value="文字：大模型进行功能判断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rBL1BOkcqFpo-R5JIP8m-7" value="文字：大模型进行功能判断" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="414" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rBL1BOkcqFpo-R5JIP8m-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rBL1BOkcqFpo-R5JIP8m-8" target="rBL1BOkcqFpo-R5JIP8m-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rBL1BOkcqFpo-R5JIP8m-8" value="筛选疑似患病集合：大模型+向量匹配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rBL1BOkcqFpo-R5JIP8m-8" value="筛选疑似患病集合：大模型+向量匹配" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="414" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rBL1BOkcqFpo-R5JIP8m-10" value="大模型输出：症状描述、治疗建议等" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rBL1BOkcqFpo-R5JIP8m-10" value="大模型输出：症状描述、治疗建议等" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="414" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
