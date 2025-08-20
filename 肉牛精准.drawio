@@ -4,6 +4,18 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-1a2qPzEKpFsN5fNEapE-1" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: left; font-family: Calibri; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;基于&lt;/font&gt;AI视觉的肉牛生长动态评估与打架行为精准干预技术开发与示范&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-1a2qPzEKpFsN5fNEapE-3" value="&lt;p style=&quot;margin: 5pt 0pt; text-align: left; font-family: Calibri; font-size: 12pt; line-height: 24px;&quot; class=&quot;p&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;打架行为监测与联动干预&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="159" y="360" width="241" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-1a2qPzEKpFsN5fNEapE-4" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;基于饲喂模式的营养动态分群决策&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="360" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-1a2qPzEKpFsN5fNEapE-5" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: Calibri;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;动态分群模式与打架监测干预的系统集成与示范&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="570" width="510" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
