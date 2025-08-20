@@ -88,7 +88,7 @@
         <mxCell id="-1a2qPzEKpFsN5fNEapE-24" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: 等线;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font&gt;肉牛精准采食与体况体重监测及分析技术研究&lt;/font&gt;&lt;span style=&quot;font-size: 12pt; font-size: 12pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="420" y="500" width="250" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="-1a2qPzEKpFsN5fNEapE-25" value="采食状况&lt;div&gt;饲料消耗&lt;/div&gt;&lt;div&gt;投料数据&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="-1a2qPzEKpFsN5fNEapE-25" value="肉牛目标检测&lt;div&gt;肉牛姿态估计&lt;/div&gt;&lt;div&gt;投料数据&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="160" y="545" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-1a2qPzEKpFsN5fNEapE-26" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" vertex="1" parent="1">
