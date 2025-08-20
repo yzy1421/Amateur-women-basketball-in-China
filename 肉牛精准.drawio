@@ -97,8 +97,8 @@
         <mxCell id="-1a2qPzEKpFsN5fNEapE-30" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="649" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="-1a2qPzEKpFsN5fNEapE-31" value="肉牛智能" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="445" y="659" width="180" height="20" as="geometry" />
+        <mxCell id="-1a2qPzEKpFsN5fNEapE-31" value="肉牛精准采食与体况体重估计系统" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="659" width="195" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
