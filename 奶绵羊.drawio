@@ -23,7 +23,7 @@
           <mxGeometry x="450" y="247" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="joFo4KZcXho3cn5Qakog-8" value="&lt;div&gt;&lt;div&gt;体况体重&lt;/div&gt;&lt;/div&gt;&lt;div&gt;体长&lt;/div&gt;&lt;div&gt;姿态&lt;/div&gt;&lt;div&gt;提高&lt;/div&gt;&lt;div&gt;臀高体宽&lt;/div&gt;&lt;div&gt;胸围&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="237" width="90" height="100" as="geometry" />
+          <mxGeometry x="175" y="242" width="95" height="100" as="geometry" />
         </mxCell>
         <mxCell id="joFo4KZcXho3cn5Qakog-9" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="70" width="510" height="100" as="geometry" />
