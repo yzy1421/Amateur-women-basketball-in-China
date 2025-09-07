@@ -28,7 +28,7 @@
         <mxCell id="joFo4KZcXho3cn5Qakog-5" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: &amp;quot;Times New Roman&amp;quot;;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;面向动态营养分群的精准饲喂模式集成与示范&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="176.5" y="650" width="497" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="joFo4KZcXho3cn5Qakog-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;采食状况&lt;div&gt;饲料消耗&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="joFo4KZcXho3cn5Qakog-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;采食状况&lt;div&gt;饲料消耗&lt;/div&gt;&lt;div&gt;投料数据&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="246" width="90" height="77" as="geometry" />
         </mxCell>
         <mxCell id="joFo4KZcXho3cn5Qakog-8" value="&lt;div&gt;&lt;div&gt;体况体重&lt;/div&gt;&lt;/div&gt;&lt;div&gt;视觉监测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
@@ -70,7 +70,7 @@
             <mxPoint x="385" y="119.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="joFo4KZcXho3cn5Qakog-26" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;投料数据&lt;/div&gt;&lt;div&gt;饲料成分分析&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="joFo4KZcXho3cn5Qakog-26" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;饲料成分分析&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="590" y="244" width="90" height="77" as="geometry" />
         </mxCell>
         <mxCell id="joFo4KZcXho3cn5Qakog-27" value="视觉监测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
