@@ -32,24 +32,33 @@
           <mxGeometry x="180" y="80" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="joFo4KZcXho3cn5Qakog-11" value="传感器&lt;br&gt;&lt;div&gt;采集&lt;/div&gt;&lt;div&gt;与分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="80" width="40" height="80" as="geometry" />
+          <mxGeometry x="280" y="80" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="joFo4KZcXho3cn5Qakog-12" value="预&lt;div&gt;处&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="80" width="40" height="80" as="geometry" />
+          <mxGeometry x="373.5" y="80" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="joFo4KZcXho3cn5Qakog-13" value="目标&lt;div&gt;提取&lt;/div&gt;&lt;div&gt;与特征&lt;/div&gt;&lt;div&gt;融合&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=0;horizontal=1;fontStyle=0;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="427" y="80" width="40" height="80" as="geometry" />
+        <mxCell id="joFo4KZcXho3cn5Qakog-13" value="特征&lt;div&gt;提取&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=0;horizontal=1;fontStyle=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="470" y="80" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="joFo4KZcXho3cn5Qakog-14" value="肉牛&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;打架&lt;/span&gt;&lt;div&gt;分析&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;及体况&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;体重估计&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=0;horizontal=1;fontStyle=0;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="505" y="80" width="70" height="80" as="geometry" />
+        <mxCell id="joFo4KZcXho3cn5Qakog-14" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;奶绵羊&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;体况&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;体重估计及&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;采食感知模型&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=0;horizontal=1;fontStyle=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="570" y="80" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="joFo4KZcXho3cn5Qakog-15" value="预警&lt;div&gt;与决策&lt;/div&gt;&lt;div&gt;干预&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=0;horizontal=1;fontStyle=0;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="615" y="80" width="40" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="joFo4KZcXho3cn5Qakog-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="joFo4KZcXho3cn5Qakog-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="119.5" as="sourcePoint" />
-            <mxPoint x="350" y="119.5" as="targetPoint" />
+            <mxPoint x="524" y="119.5" as="sourcePoint" />
+            <mxPoint x="564" y="119.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="joFo4KZcXho3cn5Qakog-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="119.5" as="sourcePoint" />
+            <mxPoint x="460" y="119.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="joFo4KZcXho3cn5Qakog-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="328" y="119.5" as="sourcePoint" />
+            <mxPoint x="368" y="119.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
