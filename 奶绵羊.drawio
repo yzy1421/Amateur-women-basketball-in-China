@@ -1,9 +1,57 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0">
   <diagram name="第 1 页" id="F09gpnXzHeWmiZ6hPY9C">
-    <mxGraphModel>
+    <mxGraphModel dx="976" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="joFo4KZcXho3cn5Qakog-1" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: Calibri; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 楷体; font-size: 14pt;&quot;&gt;&lt;font face=&quot;楷体&quot;&gt;基于&lt;/font&gt;&lt;font face=&quot;楷体&quot;&gt;AI感知的奶绵羊动态精准饲喂模式研发与示范&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="20" width="510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joFo4KZcXho3cn5Qakog-2" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: &amp;quot;Times New Roman&amp;quot;;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;基于计算机视觉的奶绵羊群体&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px; font-family: 宋体; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;体况评分策略研究&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="173" y="187" width="241" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joFo4KZcXho3cn5Qakog-3" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: &amp;quot;Times New Roman&amp;quot;;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;基于余料实时监测数据与饲料营养价值耦合的采食量测定方法研究&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="187" width="241" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joFo4KZcXho3cn5Qakog-4" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: &amp;quot;Times New Roman&amp;quot;;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;基于奶绵羊营养需要的动态分群实现精准饲喂的模式研究&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304.5" y="500" width="241" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joFo4KZcXho3cn5Qakog-5" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: &amp;quot;Times New Roman&amp;quot;;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;面向动态营养分群的精准饲喂模式集成与示范&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="176.5" y="560" width="497" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joFo4KZcXho3cn5Qakog-6" value="采食状况&lt;div&gt;饲料消耗&lt;/div&gt;&lt;div&gt;投料数据&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="247" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="joFo4KZcXho3cn5Qakog-8" value="&lt;div&gt;&lt;div&gt;体况体重&lt;/div&gt;&lt;/div&gt;&lt;div&gt;体长&lt;/div&gt;&lt;div&gt;姿态&lt;/div&gt;&lt;div&gt;提高&lt;/div&gt;&lt;div&gt;臀高体宽&lt;/div&gt;&lt;div&gt;胸围&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="237" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="joFo4KZcXho3cn5Qakog-9" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="70" width="510" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="joFo4KZcXho3cn5Qakog-10" value="基于AI感知的奶绵羊体况体重与采食数据系统开发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="joFo4KZcXho3cn5Qakog-11" value="传感器&lt;br&gt;&lt;div&gt;采集&lt;/div&gt;&lt;div&gt;与分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="80" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="joFo4KZcXho3cn5Qakog-12" value="预&lt;div&gt;处&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="80" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="joFo4KZcXho3cn5Qakog-13" value="目标&lt;div&gt;提取&lt;/div&gt;&lt;div&gt;与特征&lt;/div&gt;&lt;div&gt;融合&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=0;horizontal=1;fontStyle=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="427" y="80" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="joFo4KZcXho3cn5Qakog-14" value="肉牛&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;打架&lt;/span&gt;&lt;div&gt;分析&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;及体况&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;体重估计&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=0;horizontal=1;fontStyle=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="505" y="80" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="joFo4KZcXho3cn5Qakog-15" value="预警&lt;div&gt;与决策&lt;/div&gt;&lt;div&gt;干预&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=0;horizontal=1;fontStyle=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="615" y="80" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="joFo4KZcXho3cn5Qakog-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="119.5" as="sourcePoint" />
+            <mxPoint x="350" y="119.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
