@@ -19,8 +19,8 @@
         <mxCell id="joFo4KZcXho3cn5Qakog-5" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: &amp;quot;Times New Roman&amp;quot;;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;面向动态营养分群的精准饲喂模式集成与示范&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="176.5" y="560" width="497" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="joFo4KZcXho3cn5Qakog-6" value="采食状况&lt;div&gt;饲料消耗&lt;/div&gt;&lt;div&gt;投料数据&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="450" y="247" width="90" height="90" as="geometry" />
+        <mxCell id="joFo4KZcXho3cn5Qakog-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;采食状况&lt;div&gt;饲料消耗&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="260" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="joFo4KZcXho3cn5Qakog-8" value="&lt;div&gt;&lt;div&gt;体况体重&lt;/div&gt;&lt;/div&gt;&lt;div&gt;体长&lt;/div&gt;&lt;div&gt;姿态&lt;/div&gt;&lt;div&gt;提高&lt;/div&gt;&lt;div&gt;臀高体宽&lt;/div&gt;&lt;div&gt;胸围&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="175" y="242" width="95" height="100" as="geometry" />
@@ -61,8 +61,35 @@
             <mxPoint x="385" y="119.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="joFo4KZcXho3cn5Qakog-26" value="&lt;div&gt;饲料成分分析&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="583.5" y="242" width="90" height="90" as="geometry" />
+        <mxCell id="joFo4KZcXho3cn5Qakog-26" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;投料数据&lt;/div&gt;&lt;div&gt;饲料成分分析&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="260" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="joFo4KZcXho3cn5Qakog-27" value="视觉监测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="260" width="92" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="joFo4KZcXho3cn5Qakog-28" value="近红外监测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="588" y="260" width="92" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="joFo4KZcXho3cn5Qakog-29" value="采食数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="380" width="231" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="joFo4KZcXho3cn5Qakog-30" value="个体生长参数数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="380" width="231" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="joFo4KZcXho3cn5Qakog-31" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="286" y="410" width="296" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="joFo4KZcXho3cn5Qakog-32" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="421" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="joFo4KZcXho3cn5Qakog-33" value="饲料营养价值与体况评分关联数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="321" y="431" width="231" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="joFo4KZcXho3cn5Qakog-34" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="520" as="sourcePoint" />
+            <mxPoint x="440" y="550" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
