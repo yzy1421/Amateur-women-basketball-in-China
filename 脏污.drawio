@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.4">
+  <diagram name="第 1 页" id="reLLid4KBHZp1TMt-aYh">
+    <mxGraphModel dx="1426" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R3Inzf6pxWLm21-NA97Y-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="180" width="770" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="R3Inzf6pxWLm21-NA97Y-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="609" y="230" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="R3Inzf6pxWLm21-NA97Y-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="230" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="R3Inzf6pxWLm21-NA97Y-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="230" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="R3Inzf6pxWLm21-NA97Y-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="230" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="R3Inzf6pxWLm21-NA97Y-1" value="1.数据获取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R3Inzf6pxWLm21-NA97Y-2" value="2.预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R3Inzf6pxWLm21-NA97Y-3" value="3.检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R3Inzf6pxWLm21-NA97Y-4" value="4.结果上报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="619" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R3Inzf6pxWLm21-NA97Y-5" value="1.查询盘点数据库。选择厂区所有机器人当日不同时间、不同栏位的3-5张图像。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="310" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="R3Inzf6pxWLm21-NA97Y-6" value="1.判断图像是否黑暗，如果黑暗，则舍弃" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="310" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="R3Inzf6pxWLm21-NA97Y-7" value="1.将图片送入yolov8n-cls模型中推理&lt;div&gt;2.log中记录推理结果的类别和置信度&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="310" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="R3Inzf6pxWLm21-NA97Y-8" value="使用http上报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="619" y="310" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="R3Inzf6pxWLm21-NA97Y-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=10;endSize=3.33;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="196" y="319.5" as="sourcePoint" />
+            <mxPoint x="216" y="319.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R3Inzf6pxWLm21-NA97Y-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=10;endSize=3.33;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="319.5" as="sourcePoint" />
+            <mxPoint x="590" y="319.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R3Inzf6pxWLm21-NA97Y-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=10;endSize=3.33;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385" y="319.5" as="sourcePoint" />
+            <mxPoint x="405" y="319.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R3Inzf6pxWLm21-NA97Y-19" value="相机脏污检测引擎流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="190" width="370" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
