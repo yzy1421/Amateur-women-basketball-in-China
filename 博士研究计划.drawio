@@ -40,7 +40,7 @@
             <mxPoint x="429" y="309.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QC8pm3updLXTY5fPcWgw-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt; text-align: left; font-family: 宋体;&quot;&gt;&lt;span&gt;动态感知的动物体尺体况估计模型&lt;/span&gt;&lt;/p&gt;" vertex="1">
+        <mxCell id="QC8pm3updLXTY5fPcWgw-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt; font-weight: 400;&quot;&gt;&lt;span style=&quot;font-family: 宋体; text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px; font-weight: bold;&quot;&gt;动态体尺体况感知与三维表征模型&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="40" width="500" x="150" y="440" as="geometry" />
         </mxCell>
         <mxCell id="QC8pm3updLXTY5fPcWgw-10" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=31.724137931034484;endSize=4.331034482758621;fontSize=14;" value="">
@@ -118,7 +118,7 @@
         <mxCell id="3Ov7DIi0xo0U0nF7nI8j-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="" vertex="1">
           <mxGeometry height="110" width="520" x="140" y="1016" as="geometry" />
         </mxCell>
-        <mxCell id="3Ov7DIi0xo0U0nF7nI8j-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt; text-align: left; font-family: 宋体;&quot;&gt;&lt;span&gt;动态营养分群系统&lt;/span&gt;&lt;/p&gt;" vertex="1">
+        <mxCell id="3Ov7DIi0xo0U0nF7nI8j-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt; text-align: left; font-family: 宋体;&quot;&gt;&lt;span&gt;动态营养分群系统集成与牧场验证&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="40" width="500" x="150" y="1026" as="geometry" />
         </mxCell>
         <mxCell id="3Ov7DIi0xo0U0nF7nI8j-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=0" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt; text-align: left; font-family: 宋体;&quot;&gt;&lt;font&gt;开发动态营养分群系统&lt;/font&gt;&lt;/p&gt;" vertex="1">
