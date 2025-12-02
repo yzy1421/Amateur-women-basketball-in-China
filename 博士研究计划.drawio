@@ -45,8 +45,8 @@
         </mxCell>
         <mxCell id="QC8pm3updLXTY5fPcWgw-10" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=31.724137931034484;endSize=4.331034482758621;fontSize=14;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="400" y="394" as="sourcePoint" />
-            <mxPoint x="400" y="421" as="targetPoint" />
+            <mxPoint x="400" y="397" as="sourcePoint" />
+            <mxPoint x="400" y="424" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QC8pm3updLXTY5fPcWgw-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt; text-align: left; font-family: 宋体;&quot;&gt;&lt;span&gt;构建动物体尺体况2D/3D图像数据集&lt;/span&gt;&lt;/p&gt;" vertex="1">
