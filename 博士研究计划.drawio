@@ -31,7 +31,7 @@
         <mxCell id="QC8pm3updLXTY5fPcWgw-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="动物个体重识别算法" vertex="1">
           <mxGeometry height="40" width="160" x="457" y="290" as="geometry" />
         </mxCell>
-        <mxCell id="QC8pm3updLXTY5fPcWgw-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="动物个体重识别数据集" vertex="1">
+        <mxCell id="QC8pm3updLXTY5fPcWgw-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="构建动物个体重识别数据集" vertex="1">
           <mxGeometry height="40" width="450" x="180" y="240" as="geometry" />
         </mxCell>
         <mxCell id="QC8pm3updLXTY5fPcWgw-7" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=16;" value="">
@@ -49,7 +49,7 @@
             <mxPoint x="400" y="421" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QC8pm3updLXTY5fPcWgw-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt; text-align: left; font-family: 宋体;&quot;&gt;&lt;span&gt;动物体尺体况2D/3D图像数据集&lt;/span&gt;&lt;/p&gt;" vertex="1">
+        <mxCell id="QC8pm3updLXTY5fPcWgw-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt; text-align: left; font-family: 宋体;&quot;&gt;&lt;span&gt;构建动物体尺体况2D/3D图像数据集&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="40" width="450" x="180" y="490" as="geometry" />
         </mxCell>
         <mxCell id="3Ov7DIi0xo0U0nF7nI8j-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="动物个体体尺体况估计算法" vertex="1">
@@ -103,7 +103,7 @@
         <mxCell id="3Ov7DIi0xo0U0nF7nI8j-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt; text-align: left; font-family: 宋体;&quot;&gt;&lt;span&gt;多模态数据融合与动态营养分群模型&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="40" width="500" x="153" y="770" as="geometry" />
         </mxCell>
-        <mxCell id="3Ov7DIi0xo0U0nF7nI8j-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt; text-align: left; font-family: 宋体;&quot;&gt;&lt;span&gt;动物多模态生产时序数据集&lt;/span&gt;&lt;/p&gt;" vertex="1">
+        <mxCell id="3Ov7DIi0xo0U0nF7nI8j-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt; text-align: left; font-family: 宋体;&quot;&gt;&lt;span&gt;构建动物多模态生产时序数据集&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="40" width="450" x="180" y="815" as="geometry" />
         </mxCell>
         <mxCell id="3Ov7DIi0xo0U0nF7nI8j-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="牧场多模态数据融合算法" vertex="1">
