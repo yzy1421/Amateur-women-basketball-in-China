@@ -4,11 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3Ov7DIi0xo0U0nF7nI8j-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="330" width="520" x="137" y="447" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ov7DIi0xo0U0nF7nI8j-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="178" width="237" x="403" y="582" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ov7DIi0xo0U0nF7nI8j-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="178" width="240" x="160" y="582" as="geometry" />
+        </mxCell>
         <mxCell id="QC8pm3updLXTY5fPcWgw-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="200" width="520" x="140" y="180" as="geometry" />
+          <mxGeometry height="230" width="520" x="140" y="180" as="geometry" />
         </mxCell>
         <mxCell id="QC8pm3updLXTY5fPcWgw-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt; text-align: left; font-family: 宋体; font-size: 11pt;&quot;&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;反刍动物&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;动态&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;营养&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;需要的&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;多模态智能感知&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;模型研究&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="60" width="500" x="150" y="110" as="geometry" />
+          <mxGeometry height="40" width="500" x="150" y="130" as="geometry" />
         </mxCell>
         <mxCell id="QC8pm3updLXTY5fPcWgw-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt; text-align: left; font-family: 宋体; font-size: 11pt;&quot;&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;基于智能感知的反刍动物个体识别&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="50" width="500" x="150" y="190" as="geometry" />
@@ -29,22 +38,61 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QC8pm3updLXTY5fPcWgw-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt; text-align: left; font-family: 宋体; font-size: 11pt;&quot;&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;动态感知的动物体尺体况估计模型构建&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="60" width="500" x="150" y="440" as="geometry" />
+          <mxGeometry height="60" width="480" x="160" y="457" as="geometry" />
         </mxCell>
         <mxCell id="QC8pm3updLXTY5fPcWgw-10" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="399.5" y="390" as="sourcePoint" />
-            <mxPoint x="399.5" y="420" as="targetPoint" />
+            <mxPoint x="399.5" y="413" as="sourcePoint" />
+            <mxPoint x="399.5" y="443" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QC8pm3updLXTY5fPcWgw-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt; text-align: left; font-family: 宋体; font-size: 11pt;&quot;&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;动物体尺体况2D/3D图像数据集&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="40" width="470" x="170" y="520" as="geometry" />
+          <mxGeometry height="40" width="480" x="160" y="537" as="geometry" />
         </mxCell>
         <mxCell id="3Ov7DIi0xo0U0nF7nI8j-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="动物个体体尺体况估计算法" vertex="1">
-          <mxGeometry height="60" width="150" x="180" y="570" as="geometry" />
+          <mxGeometry height="50" width="220" x="170" y="587" as="geometry" />
         </mxCell>
         <mxCell id="3Ov7DIi0xo0U0nF7nI8j-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="动物群体体尺体况估计算法" vertex="1">
-          <mxGeometry height="60" width="150" x="480" y="570" as="geometry" />
+          <mxGeometry height="50" width="220" x="410" y="587" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ov7DIi0xo0U0nF7nI8j-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="基于2D图像数据的动物3D模型构建" vertex="1">
+          <mxGeometry height="30" width="220" x="170" y="667" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ov7DIi0xo0U0nF7nI8j-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="动物3D模型/Mesh模型" vertex="1">
+          <mxGeometry height="30" width="220" x="170" y="717" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ov7DIi0xo0U0nF7nI8j-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="动物群体体尺体况特征抽取模型" vertex="1">
+          <mxGeometry height="30" width="220" x="410" y="667" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ov7DIi0xo0U0nF7nI8j-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="动物群体时序体尺体况聚类分析模型" vertex="1">
+          <mxGeometry height="30" width="220" x="410" y="717" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ov7DIi0xo0U0nF7nI8j-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="动物个体重识别与定位" vertex="1">
+          <mxGeometry height="30" width="500" x="155" y="373" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ov7DIi0xo0U0nF7nI8j-10" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="270" y="643" as="sourcePoint" />
+            <mxPoint x="271" y="656" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Ov7DIi0xo0U0nF7nI8j-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="513" y="648" as="sourcePoint" />
+            <mxPoint x="514" y="661" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Ov7DIi0xo0U0nF7nI8j-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="269" y="700" as="sourcePoint" />
+            <mxPoint x="270" y="713" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Ov7DIi0xo0U0nF7nI8j-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="512" y="700" as="sourcePoint" />
+            <mxPoint x="513" y="713" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
