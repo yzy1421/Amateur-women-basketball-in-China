@@ -22,7 +22,7 @@
         <mxCell id="QC8pm3updLXTY5fPcWgw-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt; text-align: left; font-family: 宋体;&quot;&gt;&lt;span&gt;反刍动物&lt;/span&gt;&lt;span&gt;动态&lt;/span&gt;&lt;span&gt;营养&lt;/span&gt;&lt;span&gt;需要的&lt;/span&gt;&lt;span&gt;多模态智能感知&lt;/span&gt;&lt;span&gt;模型研究&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="40" width="520" x="140" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="QC8pm3updLXTY5fPcWgw-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt; text-align: left; font-family: 宋体;&quot;&gt;&lt;span&gt;基于智能感知的反刍动物个体识别&lt;/span&gt;&lt;/p&gt;" vertex="1">
+        <mxCell id="QC8pm3updLXTY5fPcWgw-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0pt; text-align: left; font-family: 宋体;&quot;&gt;&lt;span&gt;基于多模态智能感知的反刍动物个体识别&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="40" width="500" x="150" y="190" as="geometry" />
         </mxCell>
         <mxCell id="QC8pm3updLXTY5fPcWgw-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="研发动物实例分割算法" vertex="1">
