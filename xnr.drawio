@@ -19,6 +19,12 @@
         <mxCell id="W9TIMvwEi4295p5m_yXr-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="第二步：关键点到点云转换" vertex="1">
           <mxGeometry height="60" width="170" x="310" y="350" as="geometry" />
         </mxCell>
+        <mxCell id="W9TIMvwEi4295p5m_yXr-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="第三步：两视角关键点转换" vertex="1">
+          <mxGeometry height="60" width="170" x="310" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="W9TIMvwEi4295p5m_yXr-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="第四步：使用点云上关键点坐标计算体尺" vertex="1">
+          <mxGeometry height="60" width="390" x="100" y="540" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
