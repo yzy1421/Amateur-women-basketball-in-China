@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="奶牛背纹识别流程图" id="ztUfD7qo6jBtJbB1VopA">
+    <mxGraphModel dx="1301" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ea7Aizo3q3m5wQ7O1yuZ-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=24;" value="第一步&#xa;奶牛背部检测" vertex="1">
+          <mxGeometry height="110" width="260" x="40" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea7Aizo3q3m5wQ7O1yuZ-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=24;" value="第二步&#xa;奶牛背部对齐" vertex="1">
+          <mxGeometry height="110" width="260" x="350" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea7Aizo3q3m5wQ7O1yuZ-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=24;" value="第三步&#xa;奶牛特征提取" vertex="1">
+          <mxGeometry height="110" width="260" x="660" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea7Aizo3q3m5wQ7O1yuZ-15" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=20;" value="第四步&#xa;奶牛背部特征向量&#xa;数据库建立" vertex="1">
+          <mxGeometry height="140" width="280" x="970" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea7Aizo3q3m5wQ7O1yuZ-16" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=24;" value="第五步&#xa;奶牛特征匹配" vertex="1">
+          <mxGeometry height="160" width="250" x="1300" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea7Aizo3q3m5wQ7O1yuZ-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=20;" value="第六步&#xa;查找到具体的牛只&#xa;对应图像与ID" vertex="1">
+          <mxGeometry height="110" width="320" x="1600" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea7Aizo3q3m5wQ7O1yuZ-18" edge="1" parent="1" source="Ea7Aizo3q3m5wQ7O1yuZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" target="Ea7Aizo3q3m5wQ7O1yuZ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea7Aizo3q3m5wQ7O1yuZ-19" edge="1" parent="1" source="Ea7Aizo3q3m5wQ7O1yuZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" target="Ea7Aizo3q3m5wQ7O1yuZ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea7Aizo3q3m5wQ7O1yuZ-20" edge="1" parent="1" source="Ea7Aizo3q3m5wQ7O1yuZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" target="Ea7Aizo3q3m5wQ7O1yuZ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea7Aizo3q3m5wQ7O1yuZ-21" edge="1" parent="1" source="Ea7Aizo3q3m5wQ7O1yuZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" target="Ea7Aizo3q3m5wQ7O1yuZ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea7Aizo3q3m5wQ7O1yuZ-22" edge="1" parent="1" source="Ea7Aizo3q3m5wQ7O1yuZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" target="Ea7Aizo3q3m5wQ7O1yuZ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
